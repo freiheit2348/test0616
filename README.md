@@ -1,9 +1,10 @@
 ---
-title: Image To Text App
-emoji: 📹
-colorFrom: blue
-colorTo: red
+title: Test2 0616
+emoji: 👁
+colorFrom: green
+colorTo: blue
 sdk: streamlit
+sdk_version: 1.35.0
 app_file: app.py
 pinned: false
 ---
